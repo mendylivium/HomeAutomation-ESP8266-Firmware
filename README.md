@@ -6,7 +6,7 @@ ESP8266 Firmware for Home Automation
 
 
 ## Setup - Initial Setup
-1. Connect to **Mendy Setup** with Password **12345678**
+1. Connect to WiFi Hotspot with SSID: **Mendy Setup** with Password **12345678**
 2. Connect to your Home Network Wifi. (If you didn't see your WiFi SSID / Refresh the Page).
 3. Now you are now able to Connect to ESP Device
 
