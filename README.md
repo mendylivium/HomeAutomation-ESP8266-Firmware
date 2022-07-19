@@ -2,7 +2,7 @@
 ESP8266 Firmware for Home Automation
 
 ## Installation - Upload Firstware to ESP8266 Device
-1. Download & Flash the Firsmware using this tool [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher)
+1. Download & Flash the Firsmware (*.bin) using this tool [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher)
 
 
 ## Setup - Initial Setup
